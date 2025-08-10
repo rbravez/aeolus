@@ -1,2 +1,2 @@
-# zephyrus
+# aeolus
 a project
